@@ -19,7 +19,7 @@ env:
   SAG_CR_USER: ${{ secrets.SAG_CR_USER }}
   SAG_CR_PASSWORD: ${{ secrets.SAG_CR_PASSWORD }}
   IMAGE_REPOSITORY: esbmsr
-  IMAGE_TAG: dev
+  IMAGE_TAG: dev-1
 
 
 jobs:
